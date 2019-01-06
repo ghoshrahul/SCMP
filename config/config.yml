@@ -1,0 +1,11 @@
+server:
+  host: localhost
+  port: 2000
+
+client:
+  host: localhost
+  port: 2000
+
+security:
+  bits: 1024
+  matrixK: 10
